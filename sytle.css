@@ -1,0 +1,9 @@
+body.background {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(210, 230, 231);
+}
+
+img {
+    width: 280px;
+    height: 280px;
+}
